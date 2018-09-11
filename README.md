@@ -2,13 +2,16 @@
 
 Projected Features:
 
-*Registering users
-*Withdraw
-*Add
-*Transfer to another Account
-*History of transactions
-
-*Single-Paged Application
-*MSSQL for Data Storage
-*C# MVC + JS
-*Bootstrap
+<ul>
+<li>Registering users
+<li>Withdraw
+<li>Add
+<li>Transfer to another Account
+<li>History of transactions
+</ul>
+<ul>
+<li>Single-Paged Application
+<li>MSSQL for Data Storage
+<li>C# MVC + JS
+<li>Bootstrap
+</ul>
